@@ -1,10 +1,4 @@
---- 
-<h1 align="center">
-  Hi 👋, I'm Hemangi Ransing
-</h1>
 
-
----
 
 # 👋 Hi there, I'm Hemangi Ransing
 
