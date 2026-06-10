@@ -3,9 +3,7 @@
   Hi 👋, I'm Hemangi Ransing
 </h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&width=600&lines=Data+Analyst;Power+BI+Developer;SQL+Enthusiast;Python+for+Analytics;Turning+Data+Into+Insights" alt="Typing SVG" />
-</p>
+
 ---
 
 # 👋 Hi there, I'm Hemangi Ransing
