@@ -1,6 +1,13 @@
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Hemangi2212&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+--- 
+<h1 align="center">
+  Hi 👋, I'm Hemangi Ransing
+</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&width=600&lines=Data+Analyst;Power+BI+Developer;SQL+Enthusiast;Python+for+Analytics;Turning+Data+Into+Insights" alt="Typing SVG" />
 </p>
+---
+
 # 👋 Hi there, I'm Hemangi Ransing
 
 📊 Data Analyst | Power BI | SQL | Python
@@ -72,7 +79,17 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Hemangi2212)
 ---
+---
 
+## 🎯 Current Focus
+
+- Building Data Analytics Projects
+- Power BI Dashboard Development
+- Advanced SQL Queries
+- Reporting Automation
+- Business Intelligence
+
+---
 ## 📂 Featured Projects
 
 ### 📊 Retail Customer Analytics & KPI Dashboard
