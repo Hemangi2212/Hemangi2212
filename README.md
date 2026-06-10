@@ -56,15 +56,6 @@
 </p>
 
 
-## 📊 GitHub Stats
-
-![Hemangi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hemangi2212&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hemangi2212&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Hemangi2212&theme=tokyonight)
-
-
 ## 🌐 Connect With Me
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ransinghemangi@gmail.com)
