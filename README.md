@@ -43,14 +43,52 @@
 
 ---
 
-## 📫 Reach Me
+## 🛠 Languages and Tools
 
-📧 ransinghemangi@gmail.com
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode" />
+</p>
 
-📍 Pune, Maharashtra, India
+<p align="left">
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+</p>
 
+
+## 📊 GitHub Stats
+
+![Hemangi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hemangi2212&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hemangi2212&layout=compact&theme=tokyonight)
+
+
+## 🌐 Connect With Me
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ransinghemangi@gmail.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hemangi-ransing-3985132b0)
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Hemangi2212)
 ---
 
-## ⚡ Fun Fact
+## 📂 Featured Projects
 
-I enjoy building dashboards that turn raw data into business insights.
+### 📊 Retail Customer Analytics & KPI Dashboard
+Python | SQL | Power BI
+
+### 📚 Best Seller Books Analytics
+Python | Pandas | NumPy | Visualization
+
+### 🤖 Automated Lead Data Processing System
+Python | n8n | Automation
+
+### ☕ Coffee Shop Management System
+Python | Streamlit | OOP
+
+## 💡 Quote
+
+> "Data is a precious thing and will last longer than the systems themselves."
+>
+> — Tim Berners-Lee
