@@ -1,3 +1,6 @@
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Hemangi2212&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 # 👋 Hi there, I'm Hemangi Ransing
 
 📊 Data Analyst | Power BI | SQL | Python
